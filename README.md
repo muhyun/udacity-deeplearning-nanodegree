@@ -1,1 +1,1 @@
-# Dee Learning Projects - Udacity Deep Learning Foudataion Nanodegree Program
+## Dee Learning Projects - Udacity Deep Learning Foundation Nanodegree Program
